@@ -1,0 +1,15 @@
+com/togglecover/model/dto/AuthRequest.class
+com/togglecover/repository/RefreshTokenRepository.class
+com/togglecover/service/AuthService.class
+com/togglecover/client/UserValidationRequest.class
+com/togglecover/client/UserValidationResponse.class
+com/togglecover/model/dto/UserValidationRequest.class
+com/togglecover/model/dto/RefreshTokenRequest.class
+com/togglecover/client/UserServiceClient.class
+com/togglecover/model/dto/AuthResponse.class
+com/togglecover/config/AuthServiceApplication.class
+com/togglecover/model/dto/UserValidationResponse.class
+com/togglecover/model/entity/RefreshToken.class
+com/togglecover/service/RefreshTokenService.class
+com/togglecover/controller/AuthController.class
+com/togglecover/model/dto/TokenValidationResponse.class

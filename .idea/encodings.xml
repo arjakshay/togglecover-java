@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/togglecover-common-exceptions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/togglecover-common-exceptions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/togglecover-common-models/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/togglecover-common-models/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/togglecover-common-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/togglecover-common-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/togglecover-common-utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/togglecover-common-utils/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-services/auth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-services/claim-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-services/claim-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-services/coverage-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-services/coverage-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-services/health-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-services/health-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-services/insurance-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-services/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-services/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-services/user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-services/user-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-services/wallet-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-services/wallet-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-discovery/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-discovery/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file:///src/main/java" charset="UTF-8" />
+    <file url="file:///src/main/resources" charset="UTF-8" />
+  </component>
+</project>

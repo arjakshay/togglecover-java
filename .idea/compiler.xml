@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="togglecover-common-exceptions" />
+        <module name="togglecover-common-utils" />
+        <module name="togglecover-common-models" />
+        <module name="user-service" />
+        <module name="config-server" />
+        <module name="insurance-service" />
+        <module name="auth-service" />
+        <module name="togglecover-common-security" />
+        <module name="api-gateway" />
+        <module name="service-discovery" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="claim-service" target="21" />
+      <module name="core-services" target="21" />
+      <module name="coverage-service" target="21" />
+      <module name="health-service" target="21" />
+      <module name="wallet-service" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api-gateway" options="-parameters" />
+      <module name="auth-service" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="insurance-service" options="-parameters" />
+      <module name="service-discovery" options="-parameters" />
+      <module name="togglecover-common-exceptions" options="-parameters" />
+      <module name="togglecover-common-models" options="-parameters" />
+      <module name="togglecover-common-security" options="-parameters" />
+      <module name="togglecover-common-utils" options="-parameters" />
+      <module name="user-service" options="-parameters" />
+    </option>
+  </component>
+</project>

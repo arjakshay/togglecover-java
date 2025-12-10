@@ -1,0 +1,8 @@
+com/togglecover/common/models/ApiResponse$ApiResponseBuilderImpl.class
+com/togglecover/common/models/UserDTO.class
+com/togglecover/common/models/UserDTO$UpdateValidation.class
+com/togglecover/common/models/PaginationRequest.class
+com/togglecover/common/models/ApiResponse$ApiResponseBuilder.class
+com/togglecover/common/models/ApiResponse.class
+com/togglecover/common/models/UserDTO$CreateValidation.class
+com/togglecover/common/models/BaseEntity.class

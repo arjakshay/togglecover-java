@@ -1,0 +1,5 @@
+com/togglecover/common/exceptions/ValidationException.class
+com/togglecover/common/exceptions/ApiException.class
+com/togglecover/common/exceptions/GlobalExceptionHandler.class
+com/togglecover/common/exceptions/ResourceNotFoundException.class
+com/togglecover/common/exceptions/BadRequestException.class
